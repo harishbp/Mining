@@ -1,0 +1,4 @@
+numpy
+icrawler==0.2.3
+opencv-python
+openpyxl
